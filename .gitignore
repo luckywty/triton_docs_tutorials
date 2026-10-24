@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.triton/
+.ipynb_checkpoints/
+
+# Generated benchmark outputs
+/results.html
+/vector-add.csv
+/vector-add.png
